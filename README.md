@@ -1,4 +1,4 @@
-# Yapay Zeka / Makine Öğrenmesi Workshop Kod Paketi — Türkçe README
+# Yapay Zeka / Makine Öğrenmesi Workshop Kod Paketi 2026
 
 Bu README, workshop için hazırlanan bütün Python dosyalarının ne yaptığını, neden var olduğunu ve hangi sırayla kullanılabileceğini açıklar.
 
