@@ -1,8 +1,8 @@
 # MOL-FEST 2026 — Makine Öğrenmesi ve Moleküler Veri Analizi Colab Paketi
 
-Bu paket, ERα agonist/antagonist sınıflandırma verileri üzerinden moleküler makine öğrenmesi sürecini adım adım göstermek için hazırlanmıştır. Notebooklar Google Colab üzerinde çalışacak şekilde düzenlenmiştir. Her notebookun aynı isimli `.py` versiyonu da bulunabilir.
+Bu paket, ERα agonist/antagonist sınıflandırma verileri üzerinden moleküler makine öğrenmesi sürecini adım adım göstermek için hazırlanmıştır. Notebooklar Google Colab üzerinde çalışacak şekilde düzenlenmiştir.
 
-Bu sürümde toplam **9 notebook** vardır. Final raporlama ve aday toplama işlemi `09_collect_best_candidates.ipynb` içinde yapılır.
+Final raporlama ve aday toplama işlemi `09_collect_best_candidates.ipynb` içinde yapılır.
 
 ---
 
