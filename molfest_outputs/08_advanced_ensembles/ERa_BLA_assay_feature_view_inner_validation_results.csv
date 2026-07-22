@@ -1,0 +1,11 @@
+Dataset,FeatureSet,FeatureCount,InnerValidationROC,InnerValidationAP,InnerValidationF1,SamplingScenario,ModelType
+ERa_BLA_assay,maccs_morgan,1190,0.8933165548098434,0.809507585135627,0.6436781609195402,balanced_oversampling,RandomForest
+ERa_BLA_assay,avalon_rdkit,1241,0.8756991051454139,0.7992057714260135,0.6578947368421053,balanced_oversampling,RandomForest
+ERa_BLA_assay,maccs_avalon,1190,0.8724133109619686,0.7918522938880563,0.6666666666666666,balanced_oversampling,RandomForest
+ERa_BLA_assay,maccs_rdkit,383,0.8720637583892618,0.8152620843621672,0.7073170731707317,balanced_oversampling,RandomForest
+ERa_BLA_assay,morgan_rdkit,1241,0.8720637583892616,0.7845488684016108,0.6666666666666666,balanced_oversampling,RandomForest
+ERa_BLA_assay,maccs,166,0.8710850111856824,0.7628372582562764,0.5977011494252874,balanced_oversampling,RandomForest
+ERa_BLA_assay,morgan,1024,0.8642337807606264,0.767789752207032,0.6966292134831461,balanced_oversampling,RandomForest
+ERa_BLA_assay,all_available,2431,0.8557046979865771,0.793225612827656,0.6923076923076923,balanced_oversampling,RandomForest
+ERa_BLA_assay,avalon,1024,0.8510906040268456,0.7648158382109228,0.6588235294117647,balanced_oversampling,RandomForest
+ERa_BLA_assay,rdkit,217,0.8494127516778522,0.7797334775249868,0.6746987951807228,balanced_oversampling,RandomForest
