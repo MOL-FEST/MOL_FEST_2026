@@ -1,3 +1,0 @@
-Dataset,FeatureFile,ManifestFile,Rows,Columns,FeatureCount,Class0,Class1,HasAvalon
-ERa_BLA_assay,molfest_feature_store/model_ERa_BLA_features.csv,molfest_feature_store/model_ERa_BLA_feature_manifest.csv,984,2434,2431,746,238,True
-ERa_LUC_VM7_assay,molfest_feature_store/model_ERa_LUC_VM7_features.csv,molfest_feature_store/model_ERa_LUC_VM7_feature_manifest.csv,1714,2434,2431,577,1137,True
